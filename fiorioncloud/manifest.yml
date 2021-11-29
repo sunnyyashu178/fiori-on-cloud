@@ -1,0 +1,8 @@
+applications:
+- name: fiorioncloud
+  buildpacks : 
+    [ nodejs_buildpack ]              
+  memory: 512M
+  command: node index.js
+  random-route : true
+  instances: 5

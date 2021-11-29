@@ -1,0 +1,19 @@
+{
+  "name": "fiorioncloud",
+  "version": "1.0.0",
+  "description": "Fiori cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fiori",
+    "cloud"
+  ],
+  "author": "yaswanth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
